@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @TutelBrabantRoleplay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Stront
-
-<!---
-TutelBrabantRoleplay/TutelBrabantRoleplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dit is allemaal een test om te kijken hoe dit hele zooitje werkt
